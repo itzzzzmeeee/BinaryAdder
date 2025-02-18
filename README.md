@@ -24,6 +24,7 @@ The final sum is displayed.
 📜 Binary-Adder-Projectppt.pptx – Presentation explaining the project
 📜 COA Report.docx – Detailed project report
 📜 binary_adder.py (if applicable) – Python implementation of the binary adder
+📜 binary_adder.py – Python script to perform binary addition using ripple carry adder.
 
 📌 References
 Javatpoint – Binary Adder concepts
